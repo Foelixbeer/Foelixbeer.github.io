@@ -4,17 +4,17 @@ ul{
   padding: 0;
 }
 body {
-  background-color: lightblue;
+  background-color: lime;
 }
 
 h1 {
-  color: white;
-  text-align: right;
+  color: darkblue;
+  text-align: centre;
 }
 
 h1 {
   font-family: verdana;
-  font-size: 50px;
+  font-size: 35px;
   text-align: centre;
 }
 
