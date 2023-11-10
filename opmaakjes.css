@@ -9,12 +9,9 @@ body {
 
 h1 {
   color: darkblue;
-  text-align: centre;
-}
-
-h1 {
+  text-align: center;
   font-family: verdana;
   font-size: 35px;
-  text-align: centre;
 }
+
 
