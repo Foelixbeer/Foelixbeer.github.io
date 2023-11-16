@@ -14,4 +14,7 @@ h1 {
   font-size: 35px;
 }
 
-
+li a {
+  display: block;
+  width: 80px;
+}
